@@ -7,3 +7,4 @@ This project will use a 4.2in E-Ink Waveshare display (Raspbarry Pico Edition), 
 # Shell Iterations:
 
 1: 
+#EINK PROJECT/SHELL_ITERATION1.png
