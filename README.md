@@ -9,5 +9,9 @@ This project will use a 4.2in E-Ink Waveshare display (Raspbarry Pico Edition), 
 1: 
 <img src="EINK PROJECT/SHELL_ITERATION1.png" alt="Iteration 1, Didnt account for the board module only the screen size" width="300" height="200">
 
+Iteration 1, Didnt account for the board module only the screen size
+
 2:
-<img src="EINK PROJECT/SHELL_ITERATION2.png" alt="Iteration 2, inspired by wrong board, making a new one that has " width="300" height="200">
+<img src="EINK PROJECT/SHELL_ITERATION2.png" alt="Iteration 2, inspired by wrong board, making a new one that has dimensions that fit the pico board" width="300" height="200">
+
+Iteration 2, inspired by wrong board, making a new one that has dimensions that fit the Wavershare display pico board
