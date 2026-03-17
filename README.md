@@ -8,7 +8,7 @@ Challenges:
 The hardest part seems to be on how to get the basis of the coding, for most of my projects before I focused on the hardware part more but I think its time for me to learn coding through this, I hope this works.
 
 # BOM  
-<img src="BOM.png">
+<img src="BOM AND MATERIAL/BOM_ EINK WEATHER STATION.csv">
 
 # 3D Rendering / Predictions (WIP)
 
