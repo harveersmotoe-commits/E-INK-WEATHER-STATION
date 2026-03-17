@@ -10,7 +10,7 @@ The hardest part seems to be on how to get the basis of the coding, for most of 
 # BOM  
 <img src="BOM.png">
 
-# 3D Rendering / Predictions
+# 3D Rendering / Predictions (WIP)
 
 # Schematics
 
