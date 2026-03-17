@@ -8,7 +8,7 @@ Challenges:
 The hardest part seems to be on how to get the basis of the coding, for most of my projects before I focused on the hardware part more but I think its time for me to learn coding through this, I hope this works.
 
 # BOM  
-<img src="<img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />">
+<img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />
 
 # 3D Rendering / Predictions (WIP)
 
