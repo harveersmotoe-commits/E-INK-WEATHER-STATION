@@ -7,10 +7,26 @@ WHY?: I wanted an easier way to just look at the time and weather without taking
 Challenges:
 The hardest part seems to be on how to get the basis of the coding, for most of my projects before I focused on the hardware part more but I think its time for me to learn coding through this, I hope this works.
 
+# BUILD IRL (WIP)
+
 # BOM  
 <img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />
 
 # 3D Rendering / Predictions (WIP)
+
+BACK
+
+<img alt="image" src="3D RENDERING/BACK.png" />
+
+FRONT
+
+<img alt="image" src="3D RENDERING/FRONT.png" />\
+
+SIDE
+
+<img alt="image" src="3D RENDERING/SIDE.png" />
+
+
 
 # Schematics
 
