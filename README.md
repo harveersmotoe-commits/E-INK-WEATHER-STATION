@@ -6,6 +6,7 @@ WHY?: I wanted an easier way to just look at the time and weather without taking
 
 Challenges:
 The hardest part seems to be on how to get the basis of the coding, for most of my projects before I focused on the hardware part more but I think its time for me to learn coding through this, I hope this works.
+  UPDATE 3/26/26: I have added the test code which I ran on my computer, and duhh I picked python (easiest language). The code can pull data from the api and show that data but not anything else.
 
 # BUILD IRL (WIP)
 
