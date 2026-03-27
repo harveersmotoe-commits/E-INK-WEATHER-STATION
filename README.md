@@ -20,11 +20,11 @@ BACK
 
 FRONT
 
-<img alt="image" src="3D RENDERING/FRONT.png" />\
+<img alt="image" src="3D RENDERING/FRONTv2.png" />\
 
 SIDE
 
-<img alt="image" src="3D RENDERING/SIDE.png" />
+<img alt="image" src="3D RENDERING/SIDE v2.png" />
 
 
 
