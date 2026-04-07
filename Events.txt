@@ -1,0 +1,13 @@
+Jan 01 = New Years
+Feb 14 = Valentines Day
+Mar 20 = Spring Equinox
+Apr 01 = April Fools Day
+May 29 = Memorial Day
+Jun 21 = Summer Solstice 
+Jul 04 = Independence Day 
+Sept 01 = Labor Day
+Oct 31 = Halloween
+Nov 27 = Thanksgiving
+Nov 11 = Veterans Day
+Dec 25 = Christmas
+Dec 31 = New Years Eve
