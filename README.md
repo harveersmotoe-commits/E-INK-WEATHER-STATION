@@ -15,6 +15,9 @@ The hardest part seems to be on how to get the basis of the coding, for most of 
 <img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />
 
 # 3D Rendering / Predictions (WIP)
+
+ONSHAPE PUBLIC LINK (FILE IS KINDA MESSY)
+
 https://cad.onshape.com/documents/3183ecc2153b52cdadf06665/w/3d5d054b9ad7ca5939b5e469/e/0361741349262af1b141f693?renderMode=0&uiState=69cc78dc2a38dc41c7fe1260 
 
 BACK
@@ -35,22 +38,10 @@ SIDE
 
 <img src="EINK PROJECT/Screenshot 2026-03-15 093203.png" width="300" height="200">
 
+# Fallout Zine
 
+<img width="472" height="674" alt="image" src="https://github.com/user-attachments/assets/d6959cba-c606-4f8c-bdbe-18e357e694c1" />
 
-# Shell Iterations:
-
-FINAL FOR NOW
-
-  FRONTSIDE
- 
-  
-  <img src="EINK PROJECT/FINAL_REVFRONT.png" alt="Iteration 3, inspired by wrong board, FRONT SIDE" width="300" height="200">
-
-
-  BACKSIDE
-  
-  
-  <img src="EINK PROJECT/FINAL_REVBACK.png" alt="Iteration 3, Back Side of the " width="300" height="200">
 
 # Credits
 
