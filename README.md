@@ -22,15 +22,16 @@ https://cad.onshape.com/documents/3183ecc2153b52cdadf06665/w/3d5d054b9ad7ca5939b
 
 BACK
 
-<img alt="image" src="3D RENDERING/BACK.png" />
+<img width="722" height="839" alt="image" src="https://github.com/user-attachments/assets/ec9274f2-5df5-4fd0-9a7c-4175cb656a40" />
+
 
 FRONT
 
-<img alt="image" src="EINK PROJECT/FRONTv2.png" />
+<img width="718" height="813" alt="image" src="https://github.com/user-attachments/assets/d15ece80-717d-443d-986f-49c51dba9d0d" />
 
 SIDE
 
-<img alt="image" src="EINK PROJECT/SIDE v2.png" />
+<img width="1561" height="714" alt="image" src="https://github.com/user-attachments/assets/e78f1848-d2af-4b38-962d-023d5fc0df73" />
 
 
 
