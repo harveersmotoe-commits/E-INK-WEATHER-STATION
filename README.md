@@ -22,17 +22,17 @@ https://cad.onshape.com/documents/3183ecc2153b52cdadf06665/w/3d5d054b9ad7ca5939b
 
 BACK
 
-<img width="722" height="839" alt="image" src="https://github.com/user-attachments/assets/ec9274f2-5df5-4fd0-9a7c-4175cb656a40" />
+<img width="847" height="709" alt="image" src="https://github.com/user-attachments/assets/f2449baf-5012-46b8-a1de-f8d3718c1e68" />
 
 
 FRONT
 
-<img width="718" height="813" alt="image" src="https://github.com/user-attachments/assets/d15ece80-717d-443d-986f-49c51dba9d0d" />
+<img width="1353" height="791" alt="image" src="https://github.com/user-attachments/assets/69601707-2334-4d47-ae43-35689f647728" />
+
 
 SIDE
 
-<img width="1561" height="714" alt="image" src="https://github.com/user-attachments/assets/e78f1848-d2af-4b38-962d-023d5fc0df73" />
-
+<img width="1563" height="720" alt="image" src="https://github.com/user-attachments/assets/57d082a4-a979-472c-a6a0-6183d693cf88" />
 
 
 # Schematics
