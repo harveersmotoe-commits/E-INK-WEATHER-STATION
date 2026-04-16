@@ -14,7 +14,9 @@ The hardest part seems to be on how to get the basis of the coding, for most of 
 # BUILD IRL (WIP)
 
 # BOM  
-<img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />
+
+<img width="891" height="305" alt="image" src="https://github.com/user-attachments/assets/46b8546d-ebe9-4b95-8c8e-44539d16fe40" />
+
 
 # 3D Rendering / Predictions
 
