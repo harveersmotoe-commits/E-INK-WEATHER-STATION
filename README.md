@@ -22,19 +22,19 @@ The hardest part seems to be on how to get the basis of the coding, for most of 
 
 ONSHAPE PUBLIC LINK (Organized)
 
-https://cad.onshape.com/documents/3183ecc2153b52cdadf06665/w/3d5d054b9ad7ca5939b5e469/e/0361741349262af1b141f693?renderMode=0&uiState=69cc78dc2a38dc41c7fe1260 
+(https://cad.onshape.com/documents/3183ecc2153b52cdadf06665/w/3d5d054b9ad7ca5939b5e469/e/0361741349262af1b141f693?renderMode=0&uiState=69e0fc16343111b7d4660617)
 
-BACK
+BACK v
 
 <img width="847" height="709" alt="image" src="https://github.com/user-attachments/assets/f2449baf-5012-46b8-a1de-f8d3718c1e68" />
 
 
-FRONT
+FRONT v
 
 <img width="1353" height="791" alt="image" src="https://github.com/user-attachments/assets/69601707-2334-4d47-ae43-35689f647728" />
 
 
-SIDE
+SIDE v
 
 <img width="1563" height="720" alt="image" src="https://github.com/user-attachments/assets/57d082a4-a979-472c-a6a0-6183d693cf88" />
 
