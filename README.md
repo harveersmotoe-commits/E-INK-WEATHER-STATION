@@ -8,13 +8,15 @@ Challenges:
 The hardest part seems to be on how to get the basis of the coding, for most of my projects before I focused on the hardware part more but I think its time for me to learn coding through this, I hope this works.
  
   UPDATE 3/26/26: I have added the test code which I ran on my computer, and duhh I picked python (easiest language). The code can pull data from the api and show that data but not anything else.
+  
+  UPDATE 4/16/26: I am redoing and refining the shell design and making a new zine. Also made some code for when the pico and my other parts arrive, I hope I am on the right track. 
 
 # BUILD IRL (WIP)
 
 # BOM  
 <img width="1079" height="313" alt="image" src="https://github.com/user-attachments/assets/b694c824-880a-45ca-9c5d-8559805fa4c9" />
 
-# 3D Rendering / Predictions (WIP)
+# 3D Rendering / Predictions
 
 ONSHAPE PUBLIC LINK (Organized)
 
