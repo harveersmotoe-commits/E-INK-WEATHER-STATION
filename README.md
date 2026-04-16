@@ -36,7 +36,7 @@ FRONT v
 
 SIDE v
 
-<img width="1563" height="720" alt="image" src="https://github.com/user-attachments/assets/57d082a4-a979-472c-a6a0-6183d693cf88" />
+<img width="1022" height="460" alt="image" src="https://github.com/user-attachments/assets/f9ee48b8-8b03-484b-8260-ef4024083375" />
 
 
 # Schematics
