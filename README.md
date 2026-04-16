@@ -45,7 +45,7 @@ SIDE v
 
 # Fallout Zine
 
-
+<img width="291" height="390" alt="image" src="https://github.com/user-attachments/assets/c9c5e29e-7780-4940-bd71-02305f18b077" />
 
 
 # Credits
