@@ -47,6 +47,31 @@ SIDE v
 
 <img width="1748" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/0ac5485c-ccd8-4fa9-af30-8034cd4aba81" />
 
+# How to Build
+
+Before starting I would like to thank Hack Club for providing this oppurtunity to me.
+
+    Main Assembly:
+
+    First 3D print both the Front and Back Shell (Easier to just have them on hand rather than waiting afterwards)
+   
+        While the part is printing be sure to pause the print and put the piece of acrylic after the little divot places print
+
+    Next solider the headers onto the raspberry pi, if you need to
+
+    Then seat the Pi Pico on to the display module and use the given screws and standoffs to mount to the BACK side of the shell
+
+    When the last step is complete mount the back shell to the front and then you will be done with the assembly portion of this build
+
+    Really easy first project :)
+
+
+    Software Side of things:
+
+    I recommend that you download ______ to actually flash the code onto the Pico itself
+
+#How to Use (WIP)
+
 
 # Credits
 
