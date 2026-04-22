@@ -70,7 +70,7 @@ Before starting I would like to thank Hack Club for providing this oppurtunity t
 
     I recommend that you download ______ to actually flash the code onto the Pico itself
 
-#How to Use (WIP)
+# How to Use (WIP)
 
 
 # Credits
