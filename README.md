@@ -39,9 +39,9 @@ SIDE v
 <img width="1022" height="460" alt="image" src="https://github.com/user-attachments/assets/f9ee48b8-8b03-484b-8260-ef4024083375" />
 
 
-# Schematics
+# Schematics/Wiring Diagram
 
-<img src="EINK PROJECT/Screenshot 2026-03-15 093203.png" width="300" height="200">
+<img src="EINK PROJECT/Screenshot 2026-03-15 093203.png" width="900" height="600">
 
 # Fallout Zine
 
