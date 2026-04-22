@@ -45,7 +45,8 @@ SIDE v
 
 # Fallout Zine
 
-<img width="1748" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/0ac5485c-ccd8-4fa9-af30-8034cd4aba81" />
+<img width="435" height="602" alt="image" src="https://github.com/user-attachments/assets/8975a8c1-f76a-404b-822b-8b2d0b28d2f3" />
+
 
 # How to Build
 
